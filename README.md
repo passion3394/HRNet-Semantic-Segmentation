@@ -1,5 +1,8 @@
 # High-resolution networks (HRNets) for Semantic Segmentation
 
+## laymu's experiments
+I have trained the HRNet+OCR method, the method really works, the mean IoU could reach the author's 81%.
+
 ## Branches
 - This is the implementation for PyTroch 0.4.1.
 - The HRNet + OCR version ia available [here](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/HRNet-OCR).
